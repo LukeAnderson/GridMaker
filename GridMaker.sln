@@ -1,7 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridMaker", "Assembly-CSharp.csproj", "{BFDD86D3-5466-FAE2-8947-E977F7E0F972}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BFDD86D3-5466-FAE2-8947-E977F7E0F972}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{F97557B0-4930-4C9A-BD66-8EB62823235C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\PlayView.png = ..\..\..\Desktop\PlayView.png
+		README.md = README.md
+		..\..\..\Desktop\SceneView.png = ..\..\..\Desktop\SceneView.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,5 +25,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E85E046B-5F0F-4DD2-A03C-A9198A2B5CDD}
 	EndGlobalSection
 EndGlobal
