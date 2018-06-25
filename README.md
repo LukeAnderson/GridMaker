@@ -10,8 +10,8 @@ The demoScene offers an easy format for making quick grids. Columns or rows can 
 
 In the demo scene click on the board and adjust the options in the inspector:
 
-![SceneView](https://github.com/LukeAnderson/GridMaker/raw/master/SolutionItems/SceneView.png)
+![SceneView](https://github.com/LukeAnderson/GridMaker/raw/master/Assets/SceneView.png)
 
 Hit play and see the gird you made on screen. You can pause and then copy the board gameobject to paste into any scene.
 
-![PlayView](https://github.com/LukeAnderson/GridMaker/raw/master/SolutionItems/PlayView.png)
+![PlayView](https://github.com/LukeAnderson/GridMaker/raw/master/Assets/PlayView.png)
